@@ -17,21 +17,21 @@ I am particularly interested in building reliable systems, improving data qualit
 
 **3. Key Skills**
 
-ICT Systems & Technical Support
+  - ICT Systems & Technical Support
 
-Networking and Infrastructure Support
+  - Networking and Infrastructure Support
 
-Data Cleaning and Data Management
+  - Data Cleaning and Data Management
 
-Data Analysis and Visualization
+  - Data Analysis and Visualization
 
-SQL and Relational Databases
+  - SQL and Relational Databases 
 
-Spreadsheet Analysis (Excel / Google Sheets)
+  - Spreadsheet Analysis (Excel / Google Sheets)
 
-Version Control with Git and GitHub
+  - Version Control with Git and GitHub
 
-Technical Documentation and Reporting
+  - Technical Documentation and Reporting
 
 **4. Portfolio Features**
 
