@@ -35,39 +35,39 @@ I am particularly interested in building reliable systems, improving data qualit
 
 **4. Portfolio Features**
 
-Professional bio and background
+  i. Professional bio and background
 
-Skills and competencies overview
+  ii. Skills and competencies overview
 
-Selected projects and case studies
+  iii. Selected projects and case studies
 
-Contact information and professional links
+  iv. Contact information and professional links
 
 **5. Technologies Used**
 
-HTML, CSS, and JavaScript
+  - HTML, CSS, and JavaScript
 
-Git and GitHub
+  - Git and GitHub
 
-Data analysis tools and libraries (where applicable)
+  - Data analysis tools and libraries (where applicable)
 
 **6. Purpose of This Repository**
 
-To host and version-control my portfolio website
+  a) To host and version-control my portfolio website
 
-To demonstrate clean code structure and documentation
+  b) To demonstrate clean code structure and documentation
 
-To provide recruiters and collaborators with an overview of my professional capabilities
+  c)To provide recruiters and collaborators with an overview of my professional capabilities
 
 **7. Future Improvements**
 
-Add detailed project case studies
+  - Add detailed project case studies
 
-Integrate data visualizations and dashboards
+  - Integrate data visualizations and dashboards
 
-Improve accessibility and performance
+  - Improve accessibility and performance
 
-Deploy continuous updates as skills and experience grow
+  - Deploy continuous updates as skills and experience grow
 
 **8. Contact**
 
